@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Not Found | 3D Robotics</title>
+  <link rel="icon" type="image/png" href="https://3dr.com/favicon.ico">
+  <style>
+  body{background:#269fd4}
+  .container{width:100%;height:100%;height:100vh;overflow:hidden!important}
+  .lost-drone-image{width:100%;max-width:560px;display:block;margin:0 auto;position:relative;top:-50px}
+  h1{font-family:Helvetica,sans-serif;font-weight:700;font-size:75px;letter-spacing:20px;text-transform:uppercase;text-align:center;color:#fff;margin:0;padding:0}
+  h2{font-family:Helvetica,sans-serif;font-size:30px;font-weight:600;letter-spacing:20px;text-transform:uppercase;text-align:center;color:#fff;line-height:50px;padding:0;margin:0}
+  h2 a{color:#fff;text-decoration:none;border-bottom:5px solid #B5B5B5;margin:0;padding:0}
+  h2 a span{letter-spacing:0!important;padding-right:3px}
+  h2 a:hover{color:gray;border-bottom:5px solid gray}
+  #clouds ul{width:100%!important;height:100%!important;height:100vh!important;overflow:hidden;position:relative}
+  .text{position:relative;top:50%;-webkit-transform:translateY(-50%)!important;-ms-transform:translateY(-50%)!important;transform:translateY(-50%)!important;z-index:3;display:block}
+  .topcloud{margin-top:-400px;left:-100px!important;position:absolute;z-index:2}
+  .bottomcloud{margin-top:0;left:1200px!important;position:absolute;z-index:1}
+  .sidecloud{top:350px!important;left:-250px!important;position:absolute;z-index:1}
+  @media screen and (max-width: 1400px) {
+  .bottomcloud{margin-top:0;position:absolute;z-index:1;margin-left:-702px}
+  .sidecloud{top:-100px!important}
+  }
+  @media screen and (max-width: 900px) {
+  .bottomcloud{margin-top:200px;left:0!important}
+  .topcloud{margin-top:-500px;margin-left:-154px}
+  }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="text">
+      <img class="lost-drone-image" src="/assets_404/solo.svg">
+      <h1>ERROR 404</h1>
+      <h2>Fly<a href="https://3dr.com/">home</a>&nbsp;</h2>
+    </div>
+    <ul id="clouds" style="position: relative; transform: translate3d(0px, 0px, 0px); transform-style: preserve-3d; backface-visibility: hidden;">
+      <li class="layer sidecloud" data-depth="0.40" style="position: relative; display: block; left: 0px; top: 0px; transform: translate3d(38.242px, 28.3645px, 0px); transform-style: preserve-3d; backface-visibility: hidden;"><img class="cloud1" src="/assets_404/cloudimage.png"></li>
+      <li class="layer topcloud" data-depth="0.20" style="position: absolute; display: block; left: 0px; top: 0px; transform: translate3d(19.121px, 14.1822px, 0px); transform-style: preserve-3d; backface-visibility: hidden;"><img class="cloud2" src="/assets_404/cloudimage.png"></li>
+      <li class="layer bottomcloud" data-depth="0.70" style="position: absolute; display: block; left: 0px; top: 0px; transform: translate3d(66.9234px, 49.6378px, 0px); transform-style: preserve-3d; backface-visibility: hidden;"><img class="cloud3" src="/assets_404/cloudimage.png"></li>
+    </ul>
+  </div>
+
+  <script src="/assets_404/404_cloud.js"></script>
+</body>
+</html>
