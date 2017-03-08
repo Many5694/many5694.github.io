@@ -1,5 +1,8 @@
 /* List */
-
+body{
+  background: #D7423C;
+  box-sizing: border-box;
+}
 	ol {
 		list-style: decimal;
 		margin: 0 0 2em 0;
@@ -304,3 +307,4 @@
 		dl dd {
 			margin-left: 2em;
 		}
+
