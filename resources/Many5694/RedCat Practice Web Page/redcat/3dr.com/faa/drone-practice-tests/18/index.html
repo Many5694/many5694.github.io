@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html>
+  
+<!-- Mirrored from 3dr.com/faa/drone-practice-tests/18/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Feb 2017 03:14:49 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7c6c575388","applicationID":"15762163","transactionName":"d1hZFktYDg5REBcHVlVoQwdKQwsMU01JFF5O","queueTime":0,"applicationTime":27,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <title>FAA Drone Exam Online Practice Tests | 3DR Site Scan - Commercial Drone Platform</title>
+
+      <meta name="description" content="Take our comprehensive FAA drone test practice exams and find out if you are ready to earn your Remote Pilot Certificate.">
+
+
+    <!-- Google Tag Manager dataLayer input -->
+    <script type="text/javascript">dataLayer = [{"trackingPage":"faa"}];</script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '../../../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5HX293');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <link rel="stylesheet" media="all" href="../../../assets/application-00797c48a5972127fe0a398a4e88c660fcc4bcd21234975431c55caa36b9fbc8.css" data-turbolinks-track="true" />
+    <script src="../../../assets/application-a7bf769176291065a4ee8792a676fa71d4bb6f33052800621dec777a09483815.js" data-turbolinks-track="true"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="bDd4LQMJeQlwH6sJz4+XBlpm/a0b9i9XmhYMMcr3M8YqMHCPb1XxdHUFIJHZi1Xs2XpSF0ZijkxbLcgNPW3UPQ==" />
+  </head>
+  <body id="faa_testing" class="quiz">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5HX293"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <nav  class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <div class="hidden-md hidden-lg hidden-sm mobile-nav">
+        <div class="col-xs-4 text-left">
+          <button type="button" class="collapsed navicon-button x navbar-toggle" data-toggle="collapse" id="mobile-nav-trigger" data-target="#navbar-collapse-contents">
+            <span class="navicon icon-bar"></span>
+            <span class="navicon icon-bar"></span>
+            <span class="navicon icon-bar"></span>
+          </a>
+        </div>
+        <div class="col-xs-4 text-center">
+          <a class="navbar-brand" href="https://3dr.com/">
+            <span class="logo-icon icon3dr-logo"></span><span class='logo rights-reserved'>™</span>
+</a>        </div>
+        <div class="col-xs-4 text-right">
+          <a class="top-nav-icon icon3dr-cart" href="https://3dr.com/cart/"></a>
+        </div>
+      </div>
+      <a class="navbar-brand hidden-xs" href="https://3dr.com/">
+        <span class="logo-icon icon3dr-logo"></span><span class='logo rights-reserved'>™</span>
+</a>    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="navbar-collapse-contents">
+      <ul class="nav navbar-nav">
+        <li><a href="https://3dr.com/enterprise/features/">Features</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+            Industries <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="https://3dr.com/enterprise/industries/construction/">Construction</a></li>
+            <li><a href="https://3dr.com/enterprise/industries/survey-mapping/">Surveying &amp; Mapping</a></li>
+            <li><a href="https://3dr.com/enterprise/industries/utilities-telecom/">Utilities &amp; Telecom</a></li>
+            <li><a href="https://3dr.com/enterprise/industries/insurance/">Insurance</a></li>
+          </ul>
+        </li>
+        <li><a href="https://3dr.com/enterprise/pricing/">Pricing</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+            Resources <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="https://3dr.com/faa/">FAA Part 107 Study Material</a></li>
+            <li><a href="https://3dr.com/support/sitescan/">Site Scan Support</a></li>
+            <li><a href="https://news.3dr.com/">Blog</a></li>
+          </ul>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right account-links">
+        <li>
+          <a class="hidden-xs btn btn-primary navbar-cta" data-category="cta" data-location="navbar" href="https://3dr.com/enterprise/contact/">Contact Us</a>
+          <a class="visible-xs-block navbar-cta" data-category="cta" data-location="navbar" href="https://3dr.com/enterprise/contact/">Contact Us</a>
+        </li>
+        <li>
+          <a href="https://sitescan.3dr.com/">Sign In</a>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+
+    
+    
+<div class="bg-white">
+  <div class="sub-nav-menu-bar width-full bg-white2">
+  <section id="SubNavMenu">
+    <a class="subnav-title" href="https://3dr.com/faa/">
+      <div class="menu-title" >
+        FAA RESOURCES
+        <img class="subnav-mobile-arrow" src="../../../assets/icons/arrow-c59b58fe458dcdfe7cf6f6263cfebf634837917d9fd7fbd73d31a83acaca7ba7.png" alt="Arrow c59b58fe458dcdfe7cf6f6263cfebf634837917d9fd7fbd73d31a83acaca7ba7" />
+      </div>
+</a>    <ul class="nav nav-pills subnav-menu">
+          <li><a href="https://3dr.com/faa/">Overview</a></li>
+          <li><a href="https://3dr.com/faa/study-guides/">Study Guides</a></li>
+          <li><a href="../index.html">Practice Tests</a></li>
+          <li><a href="https://3dr.com/faa/drone-test-centers/">Test Centers</a></li>
+          <li id="dropdown-industries" class="">
+  <div class="fake-sub-nav-item">
+    FAA Drone Rules
+    <img class="dropdown-carot" src="../../../assets/icons/arrow-c59b58fe458dcdfe7cf6f6263cfebf634837917d9fd7fbd73d31a83acaca7ba7.png" alt="Arrow c59b58fe458dcdfe7cf6f6263cfebf634837917d9fd7fbd73d31a83acaca7ba7" />
+  </div>
+  <div class="dropdown-content bg-white">
+    <ul>
+      <li><a href="https://3dr.com/faa/drone-rules/">Commercial Rules</a></li>
+      <li><a href="https://3dr.com/faa/drone-registration-rules/">Drone Registration</a></li>
+    </ul>
+  </div>
+</li>
+
+    </ul>
+  </section>
+</div>
+<!-- this is to account for the subnav height -->
+<div class="pad-md"></div>
+
+</div>
+<div class="container">
+  <!-- Magic Modal -->
+  <div class="modal fade" id="faa_modal" tabindex="-1" role="dialog" aria-labelledby="FAA Quiz Modal">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title" id="faa_modal_title"></h4>
+        </div>
+        <div class="modal-body"></div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Magic Modal -->
+
+  <div class="row">
+    <div class="col-sm-3 pad-smtop">
+      <nav class="faa-nav">
+        <ul class="nav nav-pills nav-stacked">
+            <li><a class="btn-sm" href="../index.html">Questions 1&nbsp;&#8209;&nbsp;5</a></li>
+            <li><a class="btn-sm" href="../2/index.html">Questions 6&nbsp;&#8209;&nbsp;10</a></li>
+            <li><a class="btn-sm" href="../3/index.html">Questions 11&nbsp;&#8209;&nbsp;15</a></li>
+            <li><a class="btn-sm" href="../4/index.html">Questions 16&nbsp;&#8209;&nbsp;20</a></li>
+            <li><a class="btn-sm" href="../5/index.html">Questions 21&nbsp;&#8209;&nbsp;25</a></li>
+            <li><a class="btn-sm" href="../6/index.html">Questions 26&nbsp;&#8209;&nbsp;30</a></li>
+            <li><a class="btn-sm" href="../7/index.html">Questions 31&nbsp;&#8209;&nbsp;35</a></li>
+            <li><a class="btn-sm" href="../8/index.html">Questions 36&nbsp;&#8209;&nbsp;40</a></li>
+            <li><a class="btn-sm" href="../9/index.html">Questions 41&nbsp;&#8209;&nbsp;45</a></li>
+            <li><a class="btn-sm" href="../10/index.html">Questions 46&nbsp;&#8209;&nbsp;50</a></li>
+            <li><a class="btn-sm" href="../11/index.html">Questions 51&nbsp;&#8209;&nbsp;55</a></li>
+            <li><a class="btn-sm" href="../12/index.html">Questions 56&nbsp;&#8209;&nbsp;60</a></li>
+            <li><a class="btn-sm" href="../13/index.html">Questions 61&nbsp;&#8209;&nbsp;65</a></li>
+            <li><a class="btn-sm" href="../14/index.html">Questions 66&nbsp;&#8209;&nbsp;70</a></li>
+            <li><a class="btn-sm" href="../15/index.html">Questions 71&nbsp;&#8209;&nbsp;75</a></li>
+            <li><a class="btn-sm" href="../16/index.html">Questions 76&nbsp;&#8209;&nbsp;80</a></li>
+            <li><a class="btn-sm" href="../17/index.html">Questions 81&nbsp;&#8209;&nbsp;85</a></li>
+            <li class="active"><a class="btn-sm" href="index.html">Questions 86&nbsp;&#8209;&nbsp;90</a></li>
+            <li><a class="btn-sm" href="../19/index.html">Questions 91&nbsp;&#8209;&nbsp;95</a></li>
+            <li><a class="btn-sm" href="../20/index.html">Questions 96&nbsp;&#8209;&nbsp;100</a></li>
+            <li><a class="btn-sm" href="../21/index.html">Questions 101&nbsp;&#8209;&nbsp;105</a></li>
+            <li><a class="btn-sm" href="../22/index.html">Questions 106&nbsp;&#8209;&nbsp;110</a></li>
+            <li><a class="btn-sm" href="../23/index.html">Questions 111&nbsp;&#8209;&nbsp;115</a></li>
+            <li><a class="btn-sm" href="../24/index.html">Questions 116&nbsp;&#8209;&nbsp;120</a></li>
+            <li><a class="btn-sm" href="../25/index.html">Questions 121&nbsp;&#8209;&nbsp;125</a></li>
+            <li><a class="btn-sm" href="../26/index.html">Question 126</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="col-sm-9">
+      <div class="text-center section-header" id="faa_header">
+        <h1>Questions 86&nbsp;&#8209;&nbsp;90</h1>
+        <h2 class="status vanish">PLACEHOLDER</h2>
+      </div>
+      <form id="faa_quiz" data-questions="5">
+          <div class="form-group question">
+            <h3>When requesting a waiver, the required documents should be presented to the FAA at least how many days prior to the planned operation?</h3>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_0" id="question_0_answer_0" value="false">
+                  30 days
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_0" id="question_0_answer_1" value="false">
+                  10 days
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_0" id="question_0_answer_2" value="true">
+                  90 days
+                </label>
+              </div>
+          </div>
+          <div class="form-group question">
+            <h3>Which crewmember must hold a remote pilot certificate with an sUAS rating?</h3>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_1" id="question_1_answer_0" value="false">
+                  The person manipulating the controls
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_1" id="question_1_answer_1" value="false">
+                  The visual observer (VO)
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_1" id="question_1_answer_2" value="true">
+                  The Remote Pilot in Command (Remote PIC)
+                </label>
+              </div>
+          </div>
+          <div class="form-group question">
+            <h3>What effect does high density altitude have on the efficiency of a UA propeller?</h3>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_2" id="question_2_answer_0" value="true">
+                  Propeller efficiency is decreased.
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_2" id="question_2_answer_1" value="false">
+                  Propeller efficiency is increased.
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_2" id="question_2_answer_2" value="false">
+                  Density altitude does not affect propeller efficiency.
+                </label>
+              </div>
+          </div>
+          <div class="form-group question">
+            <h3>(Refer to figure 26, area 2.) What hazards to aircraft may exist in areas such as Devils Lake East MOA?</h3>
+              <ul class="nav nav-pills">
+                  <li role="presentation"><a href="#" data-toggle="modal" data-target="#faa_modal" data-path="../../../assets/faa/practice_test/figure_26/main-23f81c5aa1fa0a31c0bc01f38eda96971578c77425a661434cb9515d4782e96a.png">Figure 26</a></li>
+                  <li role="presentation"><a href="#" data-toggle="modal" data-target="#faa_modal" data-path="../../../assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png">Sectional Legend</a></li>
+              </ul>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_3" id="question_3_answer_0" value="true">
+                  Military training activities that necessitate acrobatic or abrupt flight maneuvers.
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_3" id="question_3_answer_1" value="false">
+                  High volume of pilot training or an unusual type of aerial activity.
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_3" id="question_3_answer_2" value="false">
+                  Unusual, often invisible, hazards such as aerial gunnery or guided missiles.
+                </label>
+              </div>
+          </div>
+          <div class="form-group question">
+            <h3>Safety is an important element for a remote pilot to consider prior to operating an unmanned aircraft system. To prevent the final &quot;link&quot; in the accident chain, a remote pilot must consider which methodology?</h3>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_4" id="question_4_answer_0" value="false">
+                  Crew Resource Management.
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_4" id="question_4_answer_1" value="false">
+                  Safety Management System.
+                </label>
+              </div>
+              <div class="radio">
+                <label>
+                  <input type="radio" name="question_4" id="question_4_answer_2" value="true">
+                  Risk Management.
+                </label>
+              </div>
+          </div>
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2">
+            <button type="submit" id="faa_submit" class="btn btn-primary btn-lg btn-block">Grade my responses</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div id="enterprise-page">
+  <div class="email-partial">
+  <section class="text-center font-white">
+    <h1 class="pad-smbot">Get started with 3DR Site Scan.</h1>
+
+
+
+    <div class="text-center pad-mdtop">
+      <a class="clear-btn bottom-cta" data-category="cta" data-location="sitescan-bottom" href="https://3dr.com/enterprise/contact/">Contact Us</a>
+    </div>
+  </section>
+</div>
+
+</div>
+
+    <div id="footer-nav">
+  <div class="containter  pad-md">
+    <section>
+      <div class="row">
+        <div class="col-md-2 pad-mx divider-border">
+          <div class="footer-section">
+            <span class="h7">3DR Site Scan</span>
+            <img class="hidden-md hidden-lg" src="https://3dr.com/assets/home/plus-210c900f4dde3357ab12e0dfe3752b882855b804ec231ef9b77aac89c20897b8.svg">
+          </div>
+          <ul>
+            <li><a href="https://3dr.com/">Overview</a></li>
+            <li><a href="https://3dr.com/enterprise/features/">Features</a></li>
+            <li><a href="https://3dr.com/enterprise/pricing/">Pricing</a></li>
+            <li><a href="https://3dr.com/faa/">FAA Resources</a></li>
+            <li><a class=" footer-cta" data-category="cta" data-location="footer" href="https://3dr.com/enterprise/contact/">Contact Us</a></li>
+          </ul>
+
+        </div>
+        <div class="col-md-2 pad-mx divider-border">
+          <div class="footer-section">
+            <span class="h7">Industries</span>
+            <img class="hidden-md hidden-lg" src="https://3dr.com/assets/home/plus-210c900f4dde3357ab12e0dfe3752b882855b804ec231ef9b77aac89c20897b8.svg">
+          </div>
+          <ul>
+            <li><a href="https://3dr.com/enterprise/industries/construction/">Construction</a></li>
+            <li><a href="https://3dr.com/enterprise/industries/insurance/">Insurance</a></li>
+            <li><a href="https://3dr.com/enterprise/industries/survey-mapping/">Surveying &amp; Mapping</a></li>
+            <li><a href="https://3dr.com/enterprise/industries/utilities-telecom/">Utilities &amp; Telecom</a></li>
+          </ul>
+
+        </div>
+        <div class="col-md-2 pad-mx divider-border">
+          <div class="footer-section">
+            <span class="h7">Products</span>
+            <img class="hidden-md hidden-lg" src="https://3dr.com/assets/home/plus-210c900f4dde3357ab12e0dfe3752b882855b804ec231ef9b77aac89c20897b8.svg">
+          </div>
+          <ul>
+            <li><a href="https://3dr.com/">Site Scan</a><span class='trade-mark'>™</span></li>
+            <li><a href="https://store.3dr.com/t/pixhawk">Pixhawk</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-md-2 pad-mx divider-border">
+          <div class="footer-section">
+            <span class="h7">Support</span>
+            <img class="hidden-md hidden-lg" src="https://3dr.com/assets/home/plus-210c900f4dde3357ab12e0dfe3752b882855b804ec231ef9b77aac89c20897b8.svg">
+          </div>
+          <ul>
+            <li><a href="https://3dr.com/support/">Support Home</a></li>
+            <li><a href="https://3dr.com/support/sitescan/">Site Scan Support</a></li>
+            <li><a href="https://3dr.com/support/solo/">Solo Support</a></li>
+            <li><a href="https://3dr.com/support/">Contact Support</a></li>
+          </ul>
+        </div>
+        <div class="col-md-2 pad-mx divider-border">
+          <div class="footer-section">
+            <span class="h7">About 3DR</span>
+            <img class="hidden-md hidden-lg" src="https://3dr.com/assets/home/plus-210c900f4dde3357ab12e0dfe3752b882855b804ec231ef9b77aac89c20897b8.svg">
+          </div>
+          <ul>
+            <li><a href="https://3dr.com/about/">About</a></li>
+            <li><a href="https://3dr.com/careers/">Careers</a></li>
+            <li><a target="_blank" href="http://3dr.com/news/">News</a></li>
+            <li><a href="https://3dr.com/contact/press/">Press</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<div id="footer-bottom" class="pad-mdtop">
+  <section>
+    <div class=" pad-md">
+      <div class="footer-line ">
+        <span class="h7">3DR Site Scan</span>
+        <div class="social">
+          <a href="https://www.linkedin.com/company/2850196"><span class="fa fa-linkedin icon-circle"></span></a>
+          <a href="https://twitter.com/3drobotics"><span class="fa fa-twitter icon-circle"></span></a>
+          <a href="https://vimeo.com/3drobotics"><span class="fa fa-vimeo icon-circle"></span></a>
+      </div>
+      </div>
+      <div class="footer-line pad-md">
+        <div class="links">
+          <span class="spacing"><a href="https://3dr.com/privacy/">Privacy Policy</a></span>
+          <span class="spacing"><a href="https://3dr.com/terms/">Terms of Use</a></span>
+          <span class="spacing"><a href="https://3dr.com/legal/">Legal</a></span>
+        </div>
+        <span class="spacing legal">© 2017 3D Robotics, Inc | Drone & UAV technology. All rights reserved.</span>
+      </div>
+    </div>
+  </section>
+</div>
+
+  </body>
+
+<!-- Mirrored from 3dr.com/faa/drone-practice-tests/18/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Feb 2017 03:14:49 GMT -->
+</html>

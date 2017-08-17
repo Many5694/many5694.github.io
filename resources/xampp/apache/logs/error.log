@@ -1,0 +1,124 @@
+[Fri Apr 07 17:39:56.484347 2017] [ssl:warn] [pid 8028:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:39:57.882591 2017] [ssl:warn] [pid 8028:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:39:58.515868 2017] [mpm_winnt:notice] [pid 8028:tid 612] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Fri Apr 07 17:39:58.515868 2017] [mpm_winnt:notice] [pid 8028:tid 612] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Apr 07 17:39:58.515868 2017] [core:notice] [pid 8028:tid 612] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 07 17:39:58.551868 2017] [mpm_winnt:notice] [pid 8028:tid 612] AH00418: Parent: Created child process 10952
+[Fri Apr 07 17:40:00.690125 2017] [ssl:warn] [pid 10952:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:40:01.188333 2017] [ssl:warn] [pid 10952:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:40:01.352631 2017] [mpm_winnt:notice] [pid 10952:tid 572] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 07 17:44:21.929468 2017] [ssl:warn] [pid 11816:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:44:22.523214 2017] [ssl:warn] [pid 11816:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:44:23.226338 2017] [mpm_winnt:notice] [pid 11816:tid 572] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Fri Apr 07 17:44:23.226338 2017] [mpm_winnt:notice] [pid 11816:tid 572] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Apr 07 17:44:23.226338 2017] [core:notice] [pid 11816:tid 572] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 07 17:44:23.226338 2017] [mpm_winnt:notice] [pid 11816:tid 572] AH00418: Parent: Created child process 9856
+[Fri Apr 07 17:44:25.382584 2017] [ssl:warn] [pid 9856:tid 196] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:44:25.783168 2017] [ssl:warn] [pid 9856:tid 196] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:44:25.892544 2017] [mpm_winnt:notice] [pid 9856:tid 196] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 07 17:47:07.559366 2017] [ssl:warn] [pid 11048:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:47:07.899913 2017] [core:warn] [pid 11048:tid 548] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 07 17:47:08.134288 2017] [ssl:warn] [pid 11048:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:47:08.228039 2017] [mpm_winnt:notice] [pid 11048:tid 548] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Fri Apr 07 17:47:08.228039 2017] [mpm_winnt:notice] [pid 11048:tid 548] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Apr 07 17:47:08.228039 2017] [core:notice] [pid 11048:tid 548] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 07 17:47:08.243662 2017] [mpm_winnt:notice] [pid 11048:tid 548] AH00418: Parent: Created child process 9320
+[Fri Apr 07 17:47:10.431156 2017] [ssl:warn] [pid 9320:tid 536] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:47:10.993653 2017] [ssl:warn] [pid 9320:tid 536] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 17:47:11.118654 2017] [mpm_winnt:notice] [pid 9320:tid 536] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 07 19:50:48.543059 2017] [ssl:warn] [pid 5428:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:50:48.771004 2017] [core:warn] [pid 5428:tid 608] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 07 19:50:49.001403 2017] [ssl:warn] [pid 5428:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:50:49.097412 2017] [mpm_winnt:notice] [pid 5428:tid 608] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Fri Apr 07 19:50:49.097412 2017] [mpm_winnt:notice] [pid 5428:tid 608] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Apr 07 19:50:49.097412 2017] [core:notice] [pid 5428:tid 608] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 07 19:50:49.105412 2017] [mpm_winnt:notice] [pid 5428:tid 608] AH00418: Parent: Created child process 13200
+[Fri Apr 07 19:50:50.946989 2017] [ssl:warn] [pid 13200:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:50:51.394042 2017] [ssl:warn] [pid 13200:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:50:51.498151 2017] [mpm_winnt:notice] [pid 13200:tid 556] AH00354: Child: Starting 150 worker threads.
+[Fri Apr 07 19:54:16.056418 2017] [ssl:warn] [pid 10372:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:54:16.275169 2017] [core:warn] [pid 10372:tid 548] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Apr 07 19:54:16.525167 2017] [ssl:warn] [pid 10372:tid 548] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:54:16.603295 2017] [mpm_winnt:notice] [pid 10372:tid 548] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Fri Apr 07 19:54:16.603295 2017] [mpm_winnt:notice] [pid 10372:tid 548] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Fri Apr 07 19:54:16.603295 2017] [core:notice] [pid 10372:tid 548] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Apr 07 19:54:16.618918 2017] [mpm_winnt:notice] [pid 10372:tid 548] AH00418: Parent: Created child process 11800
+[Fri Apr 07 19:54:18.646288 2017] [ssl:warn] [pid 11800:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:54:19.062409 2017] [ssl:warn] [pid 11800:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Apr 07 19:54:19.156890 2017] [mpm_winnt:notice] [pid 11800:tid 584] AH00354: Child: Starting 150 worker threads.
+[Sun Apr 09 18:52:47.306407 2017] [ssl:warn] [pid 14328:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 18:52:47.547426 2017] [core:warn] [pid 14328:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 09 18:52:47.782440 2017] [ssl:warn] [pid 14328:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 18:52:48.514017 2017] [mpm_winnt:notice] [pid 14328:tid 568] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Sun Apr 09 18:52:48.514017 2017] [mpm_winnt:notice] [pid 14328:tid 568] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Sun Apr 09 18:52:48.514017 2017] [core:notice] [pid 14328:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Apr 09 18:52:48.524018 2017] [mpm_winnt:notice] [pid 14328:tid 568] AH00418: Parent: Created child process 6372
+[Sun Apr 09 18:52:50.576736 2017] [ssl:warn] [pid 6372:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 18:52:51.039751 2017] [ssl:warn] [pid 6372:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 18:52:51.142757 2017] [mpm_winnt:notice] [pid 6372:tid 592] AH00354: Child: Starting 150 worker threads.
+[Sun Apr 09 18:52:51.162759 2017] [:error] [pid 6372:tid 1884] [client ::1:56045] PHP Parse error:  syntax error, unexpected 'content' (T_STRING), expecting ',' or ';' in C:\\xampp\\htdocs\\index.php on line 8
+[Sun Apr 09 18:54:46.031499 2017] [core:error] [pid 6372:tid 1880] (20024)The given path is misformatted or contained invalid characters: [client ::1:56076] AH00127: Cannot map GET /%22index.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.034501 2017] [core:error] [pid 6372:tid 1872] (20024)The given path is misformatted or contained invalid characters: [client ::1:56077] AH00127: Cannot map GET /%22https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.034501 2017] [core:error] [pid 6372:tid 1884] (20024)The given path is misformatted or contained invalid characters: [client ::1:56078] AH00127: Cannot map GET /%22https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.038501 2017] [core:error] [pid 6372:tid 1892] (20024)The given path is misformatted or contained invalid characters: [client ::1:56079] AH00127: Cannot map GET /%22assets/js/application-a7bf769176291065a4ee8792a676fa71d4bb6f33052800621dec777a09483815.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.046500 2017] [core:error] [pid 6372:tid 1864] (20024)The given path is misformatted or contained invalid characters: [client ::1:56080] AH00127: Cannot map GET /%22http://c.eqcdn.com/_b6d5425d7688a02ed6056ebd52866e98/redcatpropware/files/theme/images/header-logo@2x.png/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.170509 2017] [core:error] [pid 6372:tid 1864] (20024)The given path is misformatted or contained invalid characters: [client ::1:56080] AH00127: Cannot map GET /%22https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.194510 2017] [core:error] [pid 6372:tid 1864] (20024)The given path is misformatted or contained invalid characters: [client ::1:56080] AH00127: Cannot map GET /%22https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.216510 2017] [core:error] [pid 6372:tid 1864] (20024)The given path is misformatted or contained invalid characters: [client ::1:56080] AH00127: Cannot map GET /%22assets/js/application-a7bf769176291065a4ee8792a676fa71d4bb6f33052800621dec777a09483815.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:46.242511 2017] [core:error] [pid 6372:tid 1864] (20024)The given path is misformatted or contained invalid characters: [client ::1:56080] AH00127: Cannot map GET /%22http://c.eqcdn.com/_b6d5425d7688a02ed6056ebd52866e98/redcatpropware/files/theme/images/header-logo@2x.png/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.313730 2017] [core:error] [pid 6372:tid 1864] (20024)The given path is misformatted or contained invalid characters: [client ::1:56080] AH00127: Cannot map GET /%22index.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.314730 2017] [core:error] [pid 6372:tid 1892] (20024)The given path is misformatted or contained invalid characters: [client ::1:56079] AH00127: Cannot map GET /%22https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.314730 2017] [core:error] [pid 6372:tid 1884] (20024)The given path is misformatted or contained invalid characters: [client ::1:56078] AH00127: Cannot map GET /%22https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.314730 2017] [core:error] [pid 6372:tid 1880] (20024)The given path is misformatted or contained invalid characters: [client ::1:56076] AH00127: Cannot map GET /%22assets/js/application-a7bf769176291065a4ee8792a676fa71d4bb6f33052800621dec777a09483815.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.317731 2017] [core:error] [pid 6372:tid 1872] (20024)The given path is misformatted or contained invalid characters: [client ::1:56077] AH00127: Cannot map GET /%22http://c.eqcdn.com/_b6d5425d7688a02ed6056ebd52866e98/redcatpropware/files/theme/images/header-logo@2x.png/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.456741 2017] [core:error] [pid 6372:tid 1884] (20024)The given path is misformatted or contained invalid characters: [client ::1:56078] AH00127: Cannot map GET /%22https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.480741 2017] [core:error] [pid 6372:tid 1884] (20024)The given path is misformatted or contained invalid characters: [client ::1:56078] AH00127: Cannot map GET /%22https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.501742 2017] [core:error] [pid 6372:tid 1884] (20024)The given path is misformatted or contained invalid characters: [client ::1:56078] AH00127: Cannot map GET /%22assets/js/application-a7bf769176291065a4ee8792a676fa71d4bb6f33052800621dec777a09483815.js/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 18:54:49.529743 2017] [core:error] [pid 6372:tid 1884] (20024)The given path is misformatted or contained invalid characters: [client ::1:56078] AH00127: Cannot map GET /%22http://c.eqcdn.com/_b6d5425d7688a02ed6056ebd52866e98/redcatpropware/files/theme/images/header-logo@2x.png/%22 HTTP/1.1 to file, referer: http://localhost/
+[Sun Apr 09 19:02:23.735940 2017] [ssl:warn] [pid 7564:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 19:02:24.001564 2017] [core:warn] [pid 7564:tid 604] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 09 19:02:24.220314 2017] [ssl:warn] [pid 7564:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 19:02:24.314062 2017] [mpm_winnt:notice] [pid 7564:tid 604] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Sun Apr 09 19:02:24.314062 2017] [mpm_winnt:notice] [pid 7564:tid 604] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Sun Apr 09 19:02:24.314062 2017] [core:notice] [pid 7564:tid 604] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Apr 09 19:02:24.329687 2017] [mpm_winnt:notice] [pid 7564:tid 604] AH00418: Parent: Created child process 10448
+[Sun Apr 09 19:02:26.257982 2017] [ssl:warn] [pid 10448:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 19:02:26.771055 2017] [ssl:warn] [pid 10448:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 19:02:26.879061 2017] [mpm_winnt:notice] [pid 10448:tid 532] AH00354: Child: Starting 150 worker threads.
+[Sun Apr 09 20:20:32.127649 2017] [ssl:warn] [pid 3552:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 20:20:32.388966 2017] [core:warn] [pid 3552:tid 524] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 09 20:20:32.638964 2017] [ssl:warn] [pid 3552:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 20:20:32.732715 2017] [mpm_winnt:notice] [pid 3552:tid 524] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Sun Apr 09 20:20:32.732715 2017] [mpm_winnt:notice] [pid 3552:tid 524] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Sun Apr 09 20:20:32.732715 2017] [core:notice] [pid 3552:tid 524] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Apr 09 20:20:32.748340 2017] [mpm_winnt:notice] [pid 3552:tid 524] AH00418: Parent: Created child process 5080
+[Sun Apr 09 20:20:34.753132 2017] [ssl:warn] [pid 5080:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 20:20:35.229161 2017] [ssl:warn] [pid 5080:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Apr 09 20:20:35.334166 2017] [mpm_winnt:notice] [pid 5080:tid 592] AH00354: Child: Starting 150 worker threads.
+[Sun Apr 09 20:26:17.551316 2017] [:error] [pid 5080:tid 1888] [client ::1:56367] script 'C:/xampp/htdocs/index.php' not found or unable to stat, referer: http://localhost/
+[Sun Apr 09 20:34:26.897989 2017] [:error] [pid 5080:tid 1888] [client ::1:56393] PHP Fatal error:  Class 'Redmodel' not found in C:\\xampp\\htdocs\\system\\core\\Loader.php on line 304, referer: http://localhost/
+[Mon Apr 10 15:15:09.231977 2017] [ssl:warn] [pid 3056:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 10 15:15:09.481972 2017] [core:warn] [pid 3056:tid 532] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 10 15:15:09.935095 2017] [ssl:warn] [pid 3056:tid 532] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 10 15:15:11.794467 2017] [mpm_winnt:notice] [pid 3056:tid 532] AH00455: Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30 configured -- resuming normal operations
+[Mon Apr 10 15:15:11.794467 2017] [mpm_winnt:notice] [pid 3056:tid 532] AH00456: Apache Lounge VC11 Server built: Dec 20 2016 13:02:04
+[Mon Apr 10 15:15:11.794467 2017] [core:notice] [pid 3056:tid 532] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Apr 10 15:15:11.810089 2017] [mpm_winnt:notice] [pid 3056:tid 532] AH00418: Parent: Created child process 13612
+[Mon Apr 10 15:15:13.872582 2017] [ssl:warn] [pid 13612:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 10 15:15:14.389228 2017] [ssl:warn] [pid 13612:tid 496] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Apr 10 15:15:14.514226 2017] [mpm_winnt:notice] [pid 13612:tid 496] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 10 16:04:02.657396 2017] [:error] [pid 13612:tid 1880] [client ::1:56793] PHP Fatal error:  Call to undefined function base_url() in C:\\xampp\\htdocs\\index.php on line 106
+[Mon Apr 10 16:44:05.985452 2017] [:error] [pid 13612:tid 1868] [client ::1:57185] PHP Fatal error:  Call to undefined function get() in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100
+[Mon Apr 10 16:44:18.152836 2017] [:error] [pid 13612:tid 1884] [client ::1:57196] PHP Fatal error:  Call to undefined function get() in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100
+[Mon Apr 10 16:44:58.104507 2017] [:error] [pid 13612:tid 1868] [client ::1:57209] PHP Fatal error:  Call to undefined function post() in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100
+[Mon Apr 10 16:56:33.876355 2017] [:error] [pid 13612:tid 1860] [client ::1:57312] script 'C:/xampp/htdocs/redquiz.php' not found or unable to stat, referer: http://localhost/
+[Mon Apr 10 16:56:56.115796 2017] [:error] [pid 13612:tid 1880] [client ::1:57326] script 'C:/xampp/htdocs/redquiz.php' not found or unable to stat, referer: http://localhost/
+[Mon Apr 10 16:59:42.684639 2017] [:error] [pid 13612:tid 1880] [client ::1:57354] script 'C:/xampp/htdocs/redquiz.php' not found or unable to stat, referer: http://localhost/
+[Mon Apr 10 17:07:23.355986 2017] [:error] [pid 13612:tid 1892] [client ::1:57434] script 'C:/xampp/htdocs/redquiz.php' not found or unable to stat, referer: http://localhost/
+[Mon Apr 10 17:08:21.893892 2017] [access_compat:error] [pid 13612:tid 1880] [client ::1:57446] AH01797: client denied by server configuration: C:/xampp/htdocs/application/views/redquiz.php, referer: http://localhost/
+[Mon Apr 10 17:11:42.086355 2017] [:error] [pid 13612:tid 1884] [client ::1:57463] PHP Fatal error:  Cannot redeclare class Welcome in C:\\xampp\\htdocs\\application\\views\\index2.php on line 101
+[Mon Apr 10 17:58:15.853606 2017] [:error] [pid 13612:tid 1868] [client ::1:57678] PHP Parse error:  syntax error, unexpected ')' in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100, referer: http://localhost/
+[Mon Apr 10 17:58:21.236178 2017] [:error] [pid 13612:tid 1880] [client ::1:57679] PHP Parse error:  syntax error, unexpected ')' in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100, referer: http://localhost/
+[Mon Apr 10 17:59:13.109135 2017] [:error] [pid 13612:tid 1860] [client ::1:57696] PHP Parse error:  syntax error, unexpected ')' in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100, referer: http://localhost/
+[Mon Apr 10 18:09:21.877006 2017] [:error] [pid 13612:tid 1892] [client ::1:57783] PHP Fatal error:  Call to undefined function view() in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100, referer: http://localhost/
+[Mon Apr 10 18:11:29.444915 2017] [:error] [pid 13612:tid 1892] [client ::1:57796] PHP Fatal error:  Call to undefined function msql_select_db() in C:\\xampp\\htdocs\\application\\views\\redquiz.php on line 100, referer: http://localhost/

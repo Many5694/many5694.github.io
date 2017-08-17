@@ -1,0 +1,960 @@
+<Test>
+	<Questions text = "(Refer to Figure 21.) What airport is located approximately 47 (degrees) 40 (minutes) N latitude and 101 (degrees) 26 (minutes) W longitude?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>	
+		<Answer text= "Garrison Airport." value = "true"></Answer>
+		<Answer text= "Mercer County Regional Airport." value = "false"></Answer>
+		<Answer text= "Semshenko Airport." value = "false"></Answer>
+	</Questions>
+
+	<Questions text = "Under what condition should the operator of a small UA establish scheduled maintenance protocol?">
+		<Answer text = "When the FAA requires you to, following an accident." value = "false"></Answer>
+		<Answer text = "UAS does not need a required maintenance schedule." value = "false"></Answer>
+		<Answer text = "When the manufacturer does not provide a maintenance schedule." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 2.) If an unmanned airplane weighs 33 pounds, what approximate weight would the airplane structure be required to support during a 30° banked turn while maintaining altitude?">
+		<Asset figure = "Figure 2" src="/assets/faa/practice_test/figure_2/main-08aec798e611ae97212586f5e0fb9366d877818523df8aaba1a75f1c8597b872.png"></Asset>
+		<Answer text = "47 pounds." value = "false"></Answer>
+		<Answer text = "34 pounds." value = "false"></Answer>
+		<Answer text = "38 pounds." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What effect does high density altitude have on the efficiency of a UA propeller?">
+		<Answer text = "Propeller efficiency is increased." value = "false"></Answer>
+		<Answer text = "Propeller efficiency is decreased." value = "true"></Answer>
+		<Answer text = "Density altitude does not affect propeller efficiency." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "As a remote-pilot operating near an airport, you should expect arriving aircraft to join the traffic pattern">
+		<Answer text = "45 degrees to downwind" value = "true"></Answer>
+		<Answer text = "45 degrees to base" value = "false"></Answer>
+		<Answer text = "overflying the runway and turning downwind" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What are characteristics of a moist, unstable air mass?">
+		<Answer text = "Poor visibility and smooth air." value = "false"></Answer>
+		<Answer text = "Stratiform clouds and showery precipitation." value = "false"></Answer>
+		<Answer text = "Cumuliform clouds and showery precipitation." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What are the characteristics of stable air?">
+		<Answer text = "Poor visibility and steady precipitation." value = "true"></Answer>
+		<Answer text = "Good visibility and steady precipitation." value = "false"></Answer>
+		<Answer text = "Poor visibility and intermittent precipitation." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 21, area 2.) What is the floor of controlled airspace along V15?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Figure 21 - Area 2" src="assets/faa/practice_test/figure_21/area_2-f6dcdf188614931df67f59b71f4ad4a05b0839255d29c45f3c25813450e308ed.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Refer to the Chart Supplements" value = "false"></Answer>
+		<Answer text = "14,500 ft MSL" value = "false"></Answer>
+		<Answer text = "1200 ft AGL" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What effect does high density altitude have on the efficiency of a UA propeller?">
+		<Answer text = "Density altitude does not affect propeller efficiency." value = "false"></Answer>
+		<Answer text = "Propeller efficiency is decreased." value = "true"></Answer>
+		<Answer text = "Propeller efficiency is increased." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which would most likely result in hyperventilation?">
+		<Answer text = "An extremely slow rate of breathing and insufficient oxygen." value = "false"></Answer>
+		<Answer text = "Emotional tension, anxiety, or fear." value = "true"></Answer>
+		<Answer text = "The excessive consumption of alcohol." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 2.) The floor of Class B airspace at Addison Airport is">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_25/area2-075d3f95fa650447df66f4db7be9a4f3ff0cb980b777463f18740610123dd856.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "2,500 feet MSL" value = "true"></Answer>
+		<Answer text = "3,000 feet MSL" value = "false"></Answer>
+		<Answer text = "at the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "When loading cameras or other equipment on an sUAS, mount the items in a manner that">
+		<Answer text = "Can be easily removed without the use of tools." value = "false"></Answer>
+		<Answer text = "Does not adversly affect the center of gravity." value = "true"></Answer>
+		<Answer text = "Is visible to the visual observer or other crewmembers." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What are characteristics of a moist, unstable air mass?">
+		<Answer text = "Turbulence and showery precipitation." value = "true"></Answer>
+		<Answer text = "Haze and smoke." value = "false"></Answer>
+		<Answer text = "Poor visibility and smooth air." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20.) How would a remote PIC 'CHECK NOTAMS' as noted in the CAUTION box regarding the unmarked balloon?">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_25/area2-075d3f95fa650447df66f4db7be9a4f3ff0cb980b777463f18740610123dd856.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "By contacting the FAA district office." value = "false"></Answer>
+		<Answer text = "By obtaining a briefing via an online source such as 1800WXBrief.com." value = "true"></Answer>
+		<Answer text = "By utilizing the B4UFLY mobile application." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "You have been hired as a remote pilot by a local TV news station to film breaking news with a small UA. You expressed a safety concern and the station manager has instructed you to fly first, ask questions later. What type of attitude does this attitude represent?">
+		<Answer text = "Invulnerability." value = "false"></Answer>
+		<Answer text = "Impulsivity." value = "true"></Answer>
+		<Answer text = "Machismo." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Within how many days must an sUAS accident be reported to the FAA?">
+		<Answer text = "10 days" value = "true"></Answer>
+		<Answer text = "90 days" value = "false"></Answer>
+		<Answer text = "30 days" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "You are part of a news crew, operating an sUAS to cover a breaking story. You experience a flyaway during landing. The unmanned aircraft strikes a vehicle, causing approximately $800 worth of damage. When must you report the accident to the FAA?">
+		<Answer text = "If requested" value = "false"></Answer>
+		<Answer text = "Within 30 days" value = "false"></Answer>
+		<Answer text = "Within 10 days" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 107, the responsibility to inspect the small UAS to ensure it is in a safe operating condition rests with the">
+		<Answer text = "visual observer." value = "false"></Answer>
+		<Answer text = "owner of the small UAS" value = "false"></Answer>
+		<Answer text = "remote pilot-in-command." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 2.) The control tower frequency for Addison Airport is">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_25/area2-075d3f95fa650447df66f4db7be9a4f3ff0cb980b777463f18740610123dd856.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "133.4 MHz" value = "false"></Answer>
+		<Answer text = "126.0 MHz" value = "true"></Answer>
+		<Answer text = "122.95 MHz" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Before each flight, the Remote PIC must ensure that">
+		<Answer text = "The site supervisor has approved the flight" value = "false"></Answer>
+		<Answer text = "Objects carried on the sUAS are secure" value = "true"></Answer>
+		<Answer text = "ATC has granted clearance" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "When loading cameras or other equipment on an sUAS, mount the items in a manner that">
+		<Answer text = "Is visible to the visual observer or other crewmembers." value = "false"></Answer>
+		<Answer text = "Does not adversly affect the center of gravity." value = "true"></Answer>
+		<Answer text = "Can be easily removed without the use of tools." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which crewmember must hold a remote pilot certificate with an sUAS rating?">
+		<Answer text = "The person manipulating the controls" value = "false"></Answer>
+		<Answer text = "The visual observer (VO)" value = "false"></Answer>
+		<Answer text = "The Remote Pilot in Command (Remote PIC)" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 15) In the TAF for KMEM, what does SHRA stand for?">
+		<Asset figure = "Figure 15" src="assets/faa/practice_test/figure_15/main-9a47406eb4502bdf2bf63d153970e04c9c9375c955f1fc5f54031e38e2395bad.png"></Asset>
+		<Answer text = "A shift in wind deriction is expected" value = "false"></Answer>
+		<Answer text = "A significant change in precipitation is possible" value = "false"></Answer>
+		<Answer text = "Rain Showers" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "A local TV station has hired a remote pilot to operate their small UA to cover breaking news stories. The remote pilot has had multiple near misses with obstacles on the ground and two small UAS accidents. What would be a solution for the news station to improve their operating safety culture?">
+		<Answer text = "The news station should recognize hazardous attitudes and situations and develop standard operating procedures that emphasize safety." value = "true"></Answer>
+		<Answer text = "The news station does not need to make any changes; there are times that an accident is unavoidable." value = "false"></Answer>
+		<Answer text = "The news station should implement a policy of no more than five crashes/incidents within 6 months." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the purpose of the rudder on an airplane?">
+		<Answer text = "To control yaw" value = "true"></Answer>
+		<Answer text = "To control roll" value = "false"></Answer>
+		<Answer text = "To control overbanking tendency" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Responsibility for collision avoidance in controlled airspace rests with">
+		<Answer text = "Air Traffic Control" value = "false"></Answer>
+		<Answer text = "All pilots" value = "true"></Answer>
+		<Answer text = "The controlling agency" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20.) Who would a Remote Pilot in Command contact to 'CHECK NOTAMS' as it is noted in the CAUTION box regarding the unmarked balloon?">
+		<Asset figure = "Figure 20" src="assets/faa/practice_test/figure_20/main-7bb39947fef2e22d315ec0cc555cad991fa39b6782cfd7875796894340f3ae68.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "NTSB office" value = "false"></Answer>
+		<Answer text = "Flight Service" value = "true"></Answer>
+		<Answer text = "FAA district office" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "To avoid striking guy wires, how far from a skeletal tower shoud you operate your aircraft?">
+		<Answer text = "500 feet" value = "false"></Answer>
+		<Answer text = "2000 feet" value = "true"></Answer>
+		<Answer text = "1000 feet" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Whose sole task during an sUAS operation is to watch the sUAS and report potential hazards to the rest of the crew?">
+		<Answer text = "The person manipulating the controls" value = "false"></Answer>
+		<Answer text = "The Remote Pilot in Command (Remote PIC)" value = "false"></Answer>
+		<Answer text = "The visual observer (VO)" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 15) In the TAF from KOKC, the clear sky becomes">
+		<Asset figure = "Figure 15" src="assets/faa/practice_test/figure_15/main-9a47406eb4502bdf2bf63d153970e04c9c9375c955f1fc5f54031e38e2395bad.png"></Asset>
+		<Answer text = "Overcast at 200 feet with a 40% probability of becoming overcast at 600 feet during the forecast period between 2200Z and 2400Z." value = "false"></Answer>
+		<Answer text = "Overcast at 200 feet with the probability of becoming overcast at 400 feet during the forecast period between 2200Z and 2400Z." value = "false"></Answer>
+		<Answer text = "Overcast at 2,000 feet during the forecast period between 2200Z and 2400Z." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "While operating a small unmanned aircraft system (sUAS), you experience a flyaway and several people suffer injuries. Which of the following injuries requires reporting to the FAA?">
+		<Answer text = "Scrapes and cuts bandaged on site" value = "false"></Answer>
+		<Answer text = "Minor bruises" value = "false"></Answer>
+		<Answer text = "An injury requiring a hospitalization over 48 hours" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 15) What is the valid period for the TAF for KMEM?">
+		<Asset figure = "Figure 15" src="assets/faa/practice_test/figure_15/main-9a47406eb4502bdf2bf63d153970e04c9c9375c955f1fc5f54031e38e2395bad.png"></Asset>
+		<Answer text = "2200Z to 1600Z" value = "false"></Answer>
+		<Answer text = "1700Z to 2000Z" value = "false"></Answer>
+		<Answer text = "1800Z to 2400Z" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "To get a complete weather overview for the planned flight, the Remote Pilot in Command should obtain a">
+		<Answer text = "An abbreviated briefing" value = "false"></Answer>
+		<Answer text = "An outlook briefing" value = "false"></Answer>
+		<Answer text = "A standard briefing" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 21.) You have been hired by a farmer to use your small UA to inspect his crops. The area that you are to survey is in the Devil`s Lake West MOA, east of area 2. How would you find out if the MOA is active?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Locate the information in the Small UAS database." value = "false"></Answer>
+		<Answer text = "Contact Flight Service" value = "true"></Answer>
+		<Answer text = "Refer to the Military Operations Directory." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "You are a remote pilot for a co-op energy service provider. You are to use your UA to inspect power lines in a remote area 15 hours away from your home office. After the drive, fatigue impacts your abilities to complete your assignment on time. Fatigue can be recognized">
+		<Answer text = "As being in an impaired state." value = "true"></Answer>
+		<Answer text = "Easily by an experienced pilot." value = "false"></Answer>
+		<Answer text = "By an ability to overcome sleep deprivation." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 7.) The airspace overlying Mc Kinney airport (TKI) is controlled from the surface to">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "700 feet AGL" value = "false"></Answer>
+		<Answer text = "2,500 feet MSL" value = "false"></Answer>
+		<Answer text = "2,900 feet MSL" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "When requesting a waiver, the required documents should be presented to the FAA at least how many days prior to the planned operation?">
+		<Answer text = "10 days" value = "false"></Answer>
+		<Answer text = "90 days" value = "true"></Answer>
+		<Answer text = "30 days" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "To get a complete weather overview for the planned flight, the Remote Pilot in Command should obtain a">
+		<Answer text = "An abbreviated briefing" value = "false"></Answer>
+		<Answer text = "An outlook briefing" value = "false"></Answer>
+		<Answer text = "A standard briefing" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 4.) The airspace directly overlying Fort Worth Meacham airport is">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Class D airspace to 3,200 feet MSL" value = "true"></Answer>
+		<Answer text = "Class C airspace to 5,000 feet MSL" value = "false"></Answer>
+		<Answer text = "Class B airspace to 10,000 feet MSL" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 59, area 2.) The chart shows a gray line with 'VR1667, VR1617, VR1638, and VR1668.' Could this area present a hazard to the operations of a small UA?">
+		<Asset figure = "Figure 59" src="assets/faa/practice_test/figure_59/main-f021280437b9236349c9ba72c050c72e0d59f489fa515f3ef34fe3a157881652.png"></Asset>
+		<Asset figure = "Figure 59 - Area 2" src="assets/faa/practice_test/figure_59/area_2-6ecded07a7ca4a227b9109944258821c96dd595b74439ab7b1bbc2f1d91216df.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "No, all operations will be above 400 feet." value = "false"></Answer>
+		<Answer text = "Yes, this is a Military Training Route from 1,500 feet AGL and below." value = "true"></Answer>
+		<Answer text = "Yes, the defined route provides traffic separation to manned aircraft." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20.) Who would a Remote Pilot in Command contact to 'CHECK NOTAMS' as it is noted in the CAUTION box regarding the unmarked balloon?">
+		<Asset figure = "Figure 20" src="assets/faa/practice_test/figure_20/main-7bb39947fef2e22d315ec0cc555cad991fa39b6782cfd7875796894340f3ae68.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "NTSB office" value = "false"></Answer>
+		<Answer text = "Flight Service" value = "true"></Answer>
+		<Answer text = "FAA district office" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which of the following source of information should you consult first when determining what maintenance should be performed on an sUAS or its components?">
+		<Answer text = "Manufacturer guidance" value = "true"></Answer>
+		<Answer text = "Local pilot best practices" value = "false"></Answer>
+		<Answer text = "14 CFR part 107" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "To avoid striking guy wires, how far from a skeletal tower shoud you operate your aircraft?">
+		<Answer text = "500 feet" value = "false"></Answer>
+		<Answer text = "2000 feet" value = "true"></Answer>
+		<Answer text = "1000 feet" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "A pilot should be able to overcome the symptoms or avoid future occurrences of hyperventilation by">
+		<Answer text = "Closely monitoring the aircraft's telemetry data." value = "false"></Answer>
+		<Answer text = "Increasing the breathing rate in order to increase lung ventilation." value = "false"></Answer>
+		<Answer text = "Slowing the breathing rate, breathing into a bag, or talking aloud." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which basic flight maneuver increases the load factor on an airplane as compared to straight-and-level flight?">
+		<Answer text = "Climbs" value = "false"></Answer>
+		<Answer text = "Turns" value = "true"></Answer>
+		<Answer text = "Stalls" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "When requesting a waiver, the required documents should be presented to the FAA at least how many days prior to the planned operation?">
+		<Answer text = "10 days" value = "false"></Answer>
+		<Answer text = "90 days" value = "true"></Answer>
+		<Answer text = "30 days" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 48, when must a person register a small UA with the Federal Aviation Administration?">
+		<Answer text = "All civilian small UAs weighing greater than .55 pounds must be registered regardless of its intended use." value = "true"></Answer>
+		<Answer text = "When the small UA is used for any purpose other than as a model aircraft." value = "false"></Answer>
+		<Answer text = "Only when the operator will be paid for commercial services." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Damaged lithium batteries can cause">
+		<Answer text = "Increased endurance" value = "false"></Answer>
+		<Answer text = "An inflight fire" value = "true"></Answer>
+		<Answer text = "A change in aircraft center of gravity" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Between 1000Z and 1200Z the visibility at KMEM is forecast to be?">
+		<Asset figure = "Figure 15" src="assets/faa/practice_test/figure_15/main-9a47406eb4502bdf2bf63d153970e04c9c9375c955f1fc5f54031e38e2395bad.png"></Asset>
+		<Answer text = "1 SM" value = "false"></Answer>
+		<Answer text = "1/2 SM" value = "false"></Answer>
+		<Answer text = "3 SM" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 107 the remote pilot-in-command (PIC) of a small unmanned aircraft planning to operate within Class C airspace">
+		<Answer text = "Must use a visual observer." value = "false"></Answer>
+		<Answer text = "Is required to file a flight plan." value = "false"></Answer>
+		<Answer text = "Is required to receive ATC authorization." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "If an unstable air mass is forced upward, what type clouds can be expected?">
+		<Answer text = "Clouds with considerable vertical development and associated turbulence." value = "true"></Answer>
+		<Answer text = "Stratus clouds with little vertical development." value = "false"></Answer>
+		<Answer text = "Stratus clouds with considerable associated turbulence." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Who is ultimately responsible for preventing a hazardous situation before an accident occurs?">
+		<Answer text = "The person manipulating the controls" value = "false"></Answer>
+		<Answer text = "The Remote Pilot in Command (Remote PIC)" value = "true"></Answer>
+		<Answer text = "The visual observer (VO)" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 21, area 1.) Determine the approximate latitude and longitude of Minot Intl Airport.">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "48º16'N - 100º44'W" value = "false"></Answer>
+		<Answer text = "48º16'N - 101º16'W" value = "true"></Answer>
+		<Answer text = "47º44'N - 100º44'W" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "The most comprehensive information on a given airport is provided by">
+		<Answer text = "Notices to Airmen (NOTAMS)." value = "false"></Answer>
+		<Answer text = "The Chart Supplements U.S. (formerly Airport Facility Directory)." value = "true"></Answer>
+		<Answer text = "Terminal Area Chart (TAC)." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "You may operate an sUAS from a moving vehicle when no property is carried for compensation or hire">
+		<Answer text = "Over a sparsely populated area" value = "true"></Answer>
+		<Answer text = "Over a parade or other social events" value = "false"></Answer>
+		<Answer text = "Over suburban areas" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "When operating an unmanned airplane, the remote pilot should consider that the load factor on the wings may be increased anytime">
+		<Answer text = "The CG is shifted rearward to the aft CG limit." value = "false"></Answer>
+		<Answer text = "The gross weight is reduced." value = "false"></Answer>
+		<Answer text = "The airplane is subjected to maneuvers other than straight and level flight." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "Responsibility for collision avoidance in controlled airspace rests with">
+		<Answer text = "The controlling agency" value = "false"></Answer>
+		<Answer text = "Air Traffic Control" value = "false"></Answer>
+		<Answer text = "All pilots" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "The most comprehensive information on a given airport is provided by">
+		<Answer text = "Notices to Airmen (NOTAMs)" value = "false"></Answer>
+		<Answer text = "The Chart Supplements U.S. (formerly Airport/Facility Directory)" value = "true"></Answer>
+		<Answer text = "Terminal Area Chart (TAC)" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Safety is an important element for a remote pilot to consider prior to operating an unmanned aircraft system. To prevent the final 'link' in the accident chain, a remote pilot must consider which methodology?">
+		<Answer text = "Safety Management System." value = "false"></Answer>
+		<Answer text = "Crew Resource Management." value = "false"></Answer>
+		<Answer text = "Risk Management." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 26, area 2.) While monitoring the Cooperstown CTAF you hear an aircraft announce that they are left base to RWY 31. Where would the aircraft be relative to the runway?">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_26/main-23f81c5aa1fa0a31c0bc01f38eda96971578c77425a661434cb9515d4782e96a.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_26/area_2-48e97a9dcef1f00fe6791c0cbf6a9cf0aedae4c025f8b8ad696b852cac38eb37.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "The aircraft is South." value = "true"></Answer>
+		<Answer text = "The aircraft is North." value = "false"></Answer>
+		<Answer text = "The aircraft is East." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20, area 6) What does the dashed magenta line East of Area 6 indicate?">
+		<Asset figure = "Figure 20" src="assets/faa/practice_test/figure_20/main-7bb39947fef2e22d315ec0cc555cad991fa39b6782cfd7875796894340f3ae68.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Military operation area (MOA)" value = "false"></Answer>
+		<Answer text = "Magnetic variation" value = "true"></Answer>
+		<Answer text = "Class E starting at the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Scheduled maintenance should be performed in accordance with the">
+		<Answer text = "Contractor requirements" value = "false"></Answer>
+		<Answer text = "Manufacturer's suggested procedures" value = "true"></Answer>
+		<Answer text = "Stipulations in 14 CFR part 43" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which crewmember must hold a remote pilot certificate with an sUAS rating?">
+		<Answer text = "The person manipulating the controls" value = "false"></Answer>
+		<Answer text = "The visual observer (VO)" value = "false"></Answer>
+		<Answer text = "The Remote Pilot in Command (Remote PIC)" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the purpose of the rudder on an airplane?">
+		<Answer text = "To control yaw" value = "true"></Answer>
+		<Answer text = "To control roll" value = "false"></Answer>
+		<Answer text = "To control overbanking tendency" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "To get a complete weather overview for the planned flight, the Remote Pilot in Command should obtain a">
+		<Answer text = "An abbreviated briefing" value = "false"></Answer>
+		<Answer text = "An outlook briefing" value = "false"></Answer>
+		<Answer text = "A standard briefing" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which would most likely result in hyperventilation?">
+		<Answer text = "An extremely slow rate of breathing and insufficient oxygen." value = "false"></Answer>
+		<Answer text = "Emotional tension, anxiety, or fear." value = "true"></Answer>
+		<Answer text = "The excessive consumption of alcohol." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What are the characteristics of stable air?">
+		<Answer text = "Poor visibility and steady precipitation." value = "true"></Answer>
+		<Answer text = "Good visibility and steady precipitation." value = "false"></Answer>
+		<Answer text = "Poor visibility and intermittent precipitation." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Responsibility for collision avoidance in controlled airspace rests with">
+		<Answer text = "Air Traffic Control" value = "false"></Answer>
+		<Answer text = "All pilots" value = "true"></Answer>
+		<Answer text = "The controlling agency" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 21.) You have been hired by a farmer to use your small UA to inspect his crops. The area that you are to survey is in the Devil`s Lake West MOA, east of area 2. How would you find out if the MOA is active?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Locate the information in the Small UAS database." value = "false"></Answer>
+		<Answer text = "Contact Flight Service" value = "true"></Answer>
+		<Answer text = "Refer to the Military Operations Directory." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 26, area 2.) While monitoring the Cooperstown CTAF you hear an aircraft announce that they are left base to RWY 31. Where would the aircraft be relative to the runway?">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_26/main-23f81c5aa1fa0a31c0bc01f38eda96971578c77425a661434cb9515d4782e96a.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_26/area_2-48e97a9dcef1f00fe6791c0cbf6a9cf0aedae4c025f8b8ad696b852cac38eb37.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "The aircraft is South." value = "true"></Answer>
+		<Answer text = "The aircraft is North." value = "false"></Answer>
+		<Answer text = "The aircraft is East." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 21.) You have been hired by a farmer to use your small UA to inspect his crops. The area that you are to survey is in the Devil`s Lake West MOA, east of area 2. How would you find out if the MOA is active?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Locate the information in the Small UAS database." value = "false"></Answer>
+		<Answer text = "Contact Flight Service" value = "true"></Answer>
+		<Answer text = "Refer to the Military Operations Directory." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "A person whose sole task is watching the sUAS to report hazards to the rest of the crew is called">
+		<Answer text = "Remote-PIC" value = "false"></Answer>
+		<Answer text = "Person manipulating the controls" value = "false"></Answer>
+		<Answer text = "Visual observer" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which crewmember is required to be under the direct supervision of the Remote PIC when operating an sUAS?">
+		<Answer text = "The visual observer (VO)" value = "false"></Answer>
+		<Answer text = "The Remote Pilot in Command (Remote PIC)" value = "false"></Answer>
+		<Answer text = "The person manipulating the controls" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 21, area 2.) What is the floor of controlled airspace along V15?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Figure 21 - Area 2" src="assets/faa/practice_test/figure_21/area_2-f6dcdf188614931df67f59b71f4ad4a05b0839255d29c45f3c25813450e308ed.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Refer to the Chart Supplements" value = "false"></Answer>
+		<Answer text = "14,500 ft MSL" value = "false"></Answer>
+		<Answer text = "1200 ft AGL" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "You have received an outlook briefing from flight service through 1800wxbrief.com. The briefing indicates you can expect a low-level temperature inversion with high relative humidity. What weather conditions would you expect?">
+		<Answer text = "Smooth air, poor visibility, fog, haze, or low clouds." value = "true"></Answer>
+		<Answer text = "Turbulent air, poor visibility, fog, low stratus type clouds, and showery precipitation." value = "false"></Answer>
+		<Answer text = "Light wind shear, poor visibility, haze, and light rain." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "When operating near an uncontrolled airport, which frequency should the remote-pilot use to monitor air traffic?">
+		<Answer text = "CTAF" value = "true"></Answer>
+		<Answer text = "UNICOM" value = "false"></Answer>
+		<Answer text = "AWOS" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which basic flight maneuver increases the load factor on an airplane as compared to straight-and-level flight?">
+		<Answer text = "Climbs" value = "false"></Answer>
+		<Answer text = "Turns" value = "true"></Answer>
+		<Answer text = "Stalls" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20.) How would a remote PIC 'CHECK NOTAMS' as noted in the CAUTION box regarding the unmarked balloon?">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_25/area2-075d3f95fa650447df66f4db7be9a4f3ff0cb980b777463f18740610123dd856.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "By contacting the FAA district office." value = "false"></Answer>
+		<Answer text = "By obtaining a briefing via an online source such as 1800WXBrief.com." value = "true"></Answer>
+		<Answer text = "By utilizing the B4UFLY mobile application." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 15) In the TAF for KMEM, what does SHRA stand for?">
+		<Asset figure = "Figure 15" src="assets/faa/practice_test/figure_15/main-9a47406eb4502bdf2bf63d153970e04c9c9375c955f1fc5f54031e38e2395bad.png"></Asset>
+		<Answer text = "A shift in wind deriction is expected" value = "false"></Answer>
+		<Answer text = "A significant change in precipitation is possible" value = "false"></Answer>
+		<Answer text = "Rain Showers" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 2.) The floor of Class B airspace at Addison Airport is">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_25/area2-075d3f95fa650447df66f4db7be9a4f3ff0cb980b777463f18740610123dd856.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "2,500 feet MSL" value = "true"></Answer>
+		<Answer text = "3,000 feet MSL" value = "false"></Answer>
+		<Answer text = "at the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 59, area 2.) The chart shows a gray line with 'VR1667, VR1617, VR1638, and VR1668.' Could this area present a hazard to the operations of a small UA?">
+		<Asset figure = "Figure 59" src="assets/faa/practice_test/figure_59/main-f021280437b9236349c9ba72c050c72e0d59f489fa515f3ef34fe3a157881652.png"></Asset>
+		<Asset figure = "Figure 59 - Area 2" src="assets/faa/practice_test/figure_59/area_2-6ecded07a7ca4a227b9109944258821c96dd595b74439ab7b1bbc2f1d91216df.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "No, all operations will be above 400 feet." value = "false"></Answer>
+		<Answer text = "Yes, this is a Military Training Route from 1,500 feet AGL and below." value = "true"></Answer>
+		<Answer text = "Yes, the defined route provides traffic separation to manned aircraft." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 22, area 3.) Determine the approximate latitude and longitude of Shoshone County Airport.">
+		<Asset figure = "Figure 22" src="assets/faa/practice_test/figure_22/main-59e73d0ce68fcab9527e721d776f74bd35c9783517ac70e9fbc530d2f7b584a7.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "47º32'N - 116º41'W" value = "false"></Answer>
+		<Answer text = "47º32'N - 116º11'W" value = "true"></Answer>
+		<Answer text = "47º02'N - 116º41'W" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 107, the responsibility to inspect the small UAS to ensure it is in a safe operating condition rests with the">
+		<Answer text = "visual observer." value = "false"></Answer>
+		<Answer text = "owner of the small UAS" value = "false"></Answer>
+		<Answer text = "remote pilot-in-command." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 26, area 2.) While monitoring the Cooperstown CTAF you hear an aircraft announce that they are left base to RWY 31. Where would the aircraft be relative to the runway?">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_26/main-23f81c5aa1fa0a31c0bc01f38eda96971578c77425a661434cb9515d4782e96a.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_26/area_2-48e97a9dcef1f00fe6791c0cbf6a9cf0aedae4c025f8b8ad696b852cac38eb37.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "The aircraft is South." value = "true"></Answer>
+		<Answer text = "The aircraft is North." value = "false"></Answer>
+		<Answer text = "The aircraft is East." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the one common factor which affects most preventable accidents?">
+		<Answer text = "Mechanical malfunction" value = "false"></Answer>
+		<Answer text = "Structural failure" value = "false"></Answer>
+		<Answer text = "Human error" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the antidote when a pilot has a hazardous attitude, such as Resignation?">
+		<Answer text = "I am not helpless" value = "true"></Answer>
+		<Answer text = "Someone else is responsible" value = "false"></Answer>
+		<Answer text = "What is the use" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20, area 6) What does the dashed magenta line East of Area 6 indicate?">
+		<Asset figure = "Figure 20" src="assets/faa/practice_test/figure_20/main-7bb39947fef2e22d315ec0cc555cad991fa39b6782cfd7875796894340f3ae68.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Military operation area (MOA)" value = "false"></Answer>
+		<Answer text = "Magnetic variation" value = "true"></Answer>
+		<Answer text = "Class E starting at the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 20 area 4.) What hazards to aircraft may exist in restricted areas such as R-5302B?">
+		<Asset figure = "Figure 20" src="assets/faa/practice_test/figure_20/main-7bb39947fef2e22d315ec0cc555cad991fa39b6782cfd7875796894340f3ae68.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Unusual, often invisible, hazards such as aerial gunnery or guided missiles." value = "true"></Answer>
+		<Answer text = "Military training activities that necessitate acrobatic or abrupt flight maneuvers." value = "false"></Answer>
+		<Answer text = "High volume of pilot training or an unusual type of aerial activity." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "When using a small UA in a commercial operation, who is responsible for briefing the participants about emergency procedures?">
+		<Answer text = "The FAA inspector-in-charge." value = "false"></Answer>
+		<Answer text = "The lead visual observer." value = "false"></Answer>
+		<Answer text = "The remote PIC." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the purpose of the rudder on an airplane?">
+		<Answer text = "To control yaw" value = "true"></Answer>
+		<Answer text = "To control roll" value = "false"></Answer>
+		<Answer text = "To control overbanking tendency" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "You have received an outlook briefing from flight service through 1800wxbrief.com. The briefing indicates you can expect a low-level temperature inversion with high relative humidity. What weather conditions would you expect?">
+		<Answer text = "Smooth air, poor visibility, fog, haze, or low clouds." value = "true"></Answer>
+		<Answer text = "Turbulent air, poor visibility, fog, low stratus type clouds, and showery precipitation." value = "false"></Answer>
+		<Answer text = "Light wind shear, poor visibility, haze, and light rain." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which technique should a pilot use to scan for traffic?">
+		<Answer text = "Concentrate on relative movement detected in the peripheral vision area." value = "false"></Answer>
+		<Answer text = "Systematically focus on different segments of the sky for short intervals." value = "true"></Answer>
+		<Answer text = "Continuous sweeping of the windshield from right to left." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is a characteristic of stable air?">
+		<Answer text = "Stratiform clouds" value = "true"></Answer>
+		<Answer text = "Unlimited visibility" value = "false"></Answer>
+		<Answer text = "Cumulus clouds" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 12.) What are the current conditions for Chicago Midway Airport (KMDW)?">
+		<Asset figure = "Figure 12" src="assets/faa/practice_test/figure_12/main-e6a3de88341124b9dd2787199ee97941ea91ed730d5ce57c6bdb08efeb34659f.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Sky 700 feet overcast, visibility 1-1/2SM, rain." value = "true"></Answer>
+		<Answer text = "Sky 7000 feet overcast, visibility 1-1/2SM, heavy rain." value = "false"></Answer>
+		<Answer text = "Sky 700 feet overcast, visibility 11, occasionally 2SM, with rain." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "To get a complete weather overview for the planned flight, the Remote Pilot in Command should obtain a">
+		<Answer text = "An abbreviated briefing" value = "false"></Answer>
+		<Answer text = "An outlook briefing" value = "false"></Answer>
+		<Answer text = "A standard briefing" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "A person without a part 107 remote pilot certificate may operate an sUAS for commercial operations">
+		<Answer text = "Only when visual observers participate in the operation" value = "false"></Answer>
+		<Answer text = "Never" value = "false"></Answer>
+		<Answer text = "Under the direct supervision of a Remote PIC" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 4.) The floor of Class B airspace overlying Hicks Airport (T67) north-northwest of Fort Worth Meacham Field is">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "4,000 feet MSL" value = "true"></Answer>
+		<Answer text = "3,200 feet MSL" value = "false"></Answer>
+		<Answer text = "At the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20.) How would a remote PIC 'CHECK NOTAMS' as noted in the CAUTION box regarding the unmarked balloon?">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Figure 25 - Area 2" src="assets/faa/practice_test/figure_25/area2-075d3f95fa650447df66f4db7be9a4f3ff0cb980b777463f18740610123dd856.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "By contacting the FAA district office." value = "false"></Answer>
+		<Answer text = "By obtaining a briefing via an online source such as 1800WXBrief.com." value = "true"></Answer>
+		<Answer text = "By utilizing the B4UFLY mobile application." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 107, the responsibility to inspect the small UAS to ensure it is in a safe operating condition rests with the">
+		<Answer text = "visual observer." value = "false"></Answer>
+		<Answer text = "owner of the small UAS" value = "false"></Answer>
+		<Answer text = "remote pilot-in-command." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "Safety is an important element for a remote pilot to consider prior to operating an unmanned aircraft system. To prevent the final 'link' in the accident chain, a remote pilot must consider which methodology?">
+		<Answer text = "Safety Management System." value = "false"></Answer>
+		<Answer text = "Crew Resource Management." value = "false"></Answer>
+		<Answer text = "Risk Management." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 48, when must a person register a small UA with the Federal Aviation Administration?">
+		<Answer text = "All civilian small UAs weighing greater than .55 pounds must be registered regardless of its intended use." value = "true"></Answer>
+		<Answer text = "When the small UA is used for any purpose other than as a model aircraft." value = "false"></Answer>
+		<Answer text = "Only when the operator will be paid for commercial services." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 59, area 2.) The chart shows a gray line with 'VR1667, VR1617, VR1638, and VR1668.' Could this area present a hazard to the operations of a small UA?">
+		<Asset figure = "Figure 59" src="assets/faa/practice_test/figure_59/main-f021280437b9236349c9ba72c050c72e0d59f489fa515f3ef34fe3a157881652.png"></Asset>
+		<Asset figure = "Figure 59 - Area 2" src="assets/faa/practice_test/figure_59/area_2-6ecded07a7ca4a227b9109944258821c96dd595b74439ab7b1bbc2f1d91216df.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "No, all operations will be above 400 feet." value = "false"></Answer>
+		<Answer text = "Yes, this is a Military Training Route from 1,500 feet AGL and below." value = "true"></Answer>
+		<Answer text = "Yes, the defined route provides traffic separation to manned aircraft." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the antidote when a pilot has a hazardous attitude, such as Antiauthority?">
+		<Answer text = "Rules do not apply to this situation" value = "false"></Answer>
+		<Answer text = "I know what I am doing" value = "false"></Answer>
+		<Answer text = "Follow the rules" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 15) In the TAF for KMEM, what does SHRA stand for?">
+		<Asset figure = "Figure 15" src="assets/faa/practice_test/figure_15/main-9a47406eb4502bdf2bf63d153970e04c9c9375c955f1fc5f54031e38e2395bad.png"></Asset>
+		<Answer text = "A shift in wind deriction is expected" value = "false"></Answer>
+		<Answer text = "A significant change in precipitation is possible" value = "false"></Answer>
+		<Answer text = "Rain Showers" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 21, area 2.) What is the floor of controlled airspace along V15?">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Figure 21 - Area 2" src="assets/faa/practice_test/figure_21/area_2-f6dcdf188614931df67f59b71f4ad4a05b0839255d29c45f3c25813450e308ed.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Refer to the Chart Supplements" value = "false"></Answer>
+		<Answer text = "14,500 ft MSL" value = "false"></Answer>
+		<Answer text = "1200 ft AGL" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 107 the remote pilot-in-command (PIC) of a small unmanned aircraft planning to operate within Class C airspace">
+		<Answer text = "Must use a visual observer." value = "false"></Answer>
+		<Answer text = "Is required to file a flight plan." value = "false"></Answer>
+		<Answer text = "Is required to receive ATC authorization." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "The effective use of all available resources human, hardware, and information prior to and during flight to ensure the successful outcome of the operation is called">
+		<Answer text = "Safety Management System" value = "false"></Answer>
+		<Answer text = "Crew Resource Management" value = "true"></Answer>
+		<Answer text = "Risk Management" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 2.) If an unmanned airplane weighs 33 pounds, what approximate weight would the airplane structure be required to support during a 30 banked turn while maintaining altitude?">
+		<Asset figure = "Figure 2" src="assets/faa/practice_test/figure_2/main-08aec798e611ae97212586f5e0fb9366d877818523df8aaba1a75f1c8597b872.png"></Asset>
+		<Answer text = "47 pounds." value = "false"></Answer>
+		<Answer text = "34 pounds." value = "false"></Answer>
+		<Answer text = "38 pounds." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 21) The terrain elevation of the light tan area between Minot (area 1) and Audubon Lake (area 2) varies from">
+		<Asset figure = "Figure 21" src="assets/faa/practice_test/figure_21/main-310f135d42123ac9656452743e4d40276598dbb31a45d091f472d322dadc7f36.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "2,000 feet to 2,700 feet MSL" value = "false"></Answer>
+		<Answer text = "Sea level to 2,000 feet MSL" value = "false"></Answer>
+		<Answer text = "2,000 feet to 2,500 feet MSL" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the one common factor which affects most preventable accidents?">
+		<Answer text = "Mechanical malfunction" value = "false"></Answer>
+		<Answer text = "Structural failure" value = "false"></Answer>
+		<Answer text = "Human error" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What is the antidote when a pilot has a hazardous attitude, such as Antiauthority?">
+		<Answer text = "Rules do not apply to this situation" value = "false"></Answer>
+		<Answer text = "I know what I am doing" value = "false"></Answer>
+		<Answer text = "Follow the rules" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "What are characteristics of a moist, unstable air mass?">
+		<Answer text = "Turbulence and showery precipitation." value = "true"></Answer>
+		<Answer text = "Haze and smoke." value = "false"></Answer>
+		<Answer text = "Poor visibility and smooth air." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "According to 14 CFR part 107, the responsibility to inspect the small UAS to ensure it is in a safe operating condition rests with the">
+		<Answer text = "visual observer." value = "false"></Answer>
+		<Answer text = "owner of the small UAS" value = "false"></Answer>
+		<Answer text = "remote pilot-in-command." value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 7.) The airspace overlying Mc Kinney airport (TKI) is controlled from the surface to">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "700 feet AGL" value = "false"></Answer>
+		<Answer text = "2,500 feet MSL" value = "false"></Answer>
+		<Answer text = "2,900 feet MSL" value = "true"></Answer>
+	</Questions>
+
+
+	<Questions text = "The most effective method of scanning for other aircraft for collision avoidance is to use">
+		<Answer text = "a series of short, regularly spaced eye movements to search each 10-degree sector." value = "true"></Answer>
+		<Answer text = "regularly spaced concentration on the 3-o'clock, 9-o'clock, and 12-o'clock positions." value = "false"></Answer>
+		<Answer text = "peripheral vision by scanning small sectors and utilizing offcenter viewing." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 12.) The wind direction and velocity at KJFK is from">
+		<Asset figure = "Figure 12" src="assets/faa/practice_test/figure_12/main-e6a3de88341124b9dd2787199ee97941ea91ed730d5ce57c6bdb08efeb34659f.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "180° magnetic at 4 knots." value = "false"></Answer>
+		<Answer text = "180° true at 4 knots." value = "true"></Answer>
+		<Answer text = "040° true at 18 knots." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "A stable air mass is most likely to have which characteristic?">
+		<Answer text = "Turbulent air" value = "false"></Answer>
+		<Answer text = "Smooth air" value = "true"></Answer>
+		<Answer text = "Showery precipitation" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "Which would most likely result in hyperventilation?">
+		<Answer text = "An extremely slow rate of breathing and insufficient oxygen." value = "false"></Answer>
+		<Answer text = "Emotional tension, anxiety, or fear." value = "true"></Answer>
+		<Answer text = "The excessive consumption of alcohol." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "If an unstable air mass is forced upward, what type clouds can be expected?">
+		<Answer text = "Clouds with considerable vertical development and associated turbulence." value = "true"></Answer>
+		<Answer text = "Stratus clouds with little vertical development." value = "false"></Answer>
+		<Answer text = "Stratus clouds with considerable associated turbulence." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to Figure 20, area 6) What does the dashed magenta line East of Area 6 indicate?">
+		<Asset figure = "Figure 20" src="assets/faa/practice_test/figure_20/main-7bb39947fef2e22d315ec0cc555cad991fa39b6782cfd7875796894340f3ae68.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "Military operation area (MOA)" value = "false"></Answer>
+		<Answer text = "Magnetic variation" value = "true"></Answer>
+		<Answer text = "Class E starting at the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "(Refer to figure 25, area 4.) The floor of Class B airspace overlying Hicks Airport (T67) north-northwest of Fort Worth Meacham Field is">
+		<Asset figure = "Figure 25" src="assets/faa/practice_test/figure_25/main-57bc6a20997504c7dfe6d1e894e7811561453c502faadd4248a5f29a8ea0c65e.png"></Asset>
+		<Asset figure = "Sectional Legend" src="assets/faa/practice_test/sectional_legend-cb94b2493a47391b96791f85a9e4b6f365b14707eef1858412d46b2422fba0b0.png"></Asset>
+		<Answer text = "4,000 feet MSL" value = "true"></Answer>
+		<Answer text = "3,200 feet MSL" value = "false"></Answer>
+		<Answer text = "At the surface" value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "To avoid a possible collision with a manned airplane, you estimate that your small UA climbed to an altitude greater than 600 feet AGL. To whom must you report the deviation?">
+		<Answer text = "The FAA, upon request." value = "true"></Answer>
+		<Answer text = "Air Traffic Control." value = "false"></Answer>
+		<Answer text = "The National Transportation Safety Board." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "You are a remote pilot for a co-op energy service provider. You are to use your UA to inspect power lines in a remote area 15 hours away from your home office. After the drive, fatigue impacts your abilities to complete your assignment on time. Fatigue can be recognized">
+		<Answer text = "As being in an impaired state." value = "true"></Answer>
+		<Answer text = "Easily by an experienced pilot." value = "false"></Answer>
+		<Answer text = "By an ability to overcome sleep deprivation." value = "false"></Answer>
+	</Questions>
+
+
+	<Questions text = "The FAA may approve your application for a waiver of provisions in part 107 only when it has been determined that the proposed operation">
+		<Answer text = "Involves public aircraft or air carrier operations" value = "false"></Answer>
+		<Answer text = "Will be conducted outside the United-States" value = "false"></Answer>
+		<Answer text = "Can be safely conducted under the terms of that certificate of waiver" value = "true"></Answer>
+	</Questions>
+</Test>
