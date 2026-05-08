@@ -1,0 +1,31 @@
+/* 1. Variables y Reset */
+:root {
+    --primary-color: #2563eb;
+    --text-color: #333;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2. Estilos Globales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+}
+
+/* 3. Layout (Header, Main, Footer) */
+header {
+    background: #fff;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* 4. Componentes y Secciones */
+#hero {
+    text-align: center;
+    padding: 4rem 1rem;
+}
