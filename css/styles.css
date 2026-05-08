@@ -226,3 +226,21 @@ nav.scrolled {
     backdrop-filter: blur(8px);
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
+
+/* Contenedor de los botones */
+.contact-links {
+    display: flex;
+    justify-content: center; /* Centra los botones horizontalmente */
+    align-items: center;     /* Los alinea verticalmente entre sí */
+    gap: 20px;               /* Espacio uniforme entre botones */
+    margin-top: 30px;        /* Separación con el texto de arriba */
+    flex-wrap: wrap;         /* Permite que bajen si no caben en móvil */
+}
+
+/* Ajuste de los botones para que tengan consistencia */
+.contact-links .btn {
+    min-width: 160px;        /* Ancho mínimo igual para ambos */
+    text-align: center;      /* Centra el texto dentro del botón */
+    display: inline-block;
+    padding: 12px 24px;
+}
