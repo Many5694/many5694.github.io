@@ -1,3 +1,6 @@
+# Permite que todos los buscadores rastreen el sitio
 User-agent: *
-Disallow: 
-Sitemap: https://www.many5694.com/sitemap.xml
+Allow: /
+
+# Ruta de tu sitemap
+Sitemap: https://many5694.github.io/sitemap.xml

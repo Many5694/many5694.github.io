@@ -3,40 +3,145 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <!-- Seguridad y SEO -->
-    <title>Manuel Melendez | Senior QA Engineer</title>
-    <meta name="description" content="Senior Quality Assurance Engineer especializado en automatización y sistemas de energía.">
-
-    <!-- Vinculación del CSS externo -->
-    <link rel="stylesheet" href="css/style.css">
+    <title>Manuel Meléndez-Negrón | QA Automation Engineer</title>
+    <link rel="icon" type="image/x-icon" href="assets/qa-2.ico">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
 </head>
 <body>
 
-<header>
-    <nav aria-label="Navegación principal">
+<nav>
+    <div class="container">
+        <span class="logo">MMN</span>
         <ul>
             <li><a href="#experiencia">Experiencia</a></li>
-            <li><a href="#proyectos">Proyectos</a></li>
+            <li><a href="#skills">Habilidades</a></li>
+            <li><a href="#certificaciones">Certificaciones</a></li>
             <li><a href="#contacto">Contacto</a></li>
         </ul>
-    </nav>
+    </div>
+</nav>
+
+<header>
+    <div class="container hero">
+        <img src="assets/bw.jpg" alt="Manuel Meléndez-Negrón" class="profile-img">
+        <h1>Manuel Meléndez-Negrón</h1>
+        <p class="subtitle">QA Automation Engineer | Senior Software Tester</p>
+        <p class="location">Jayuya, Puerto Rico</p>
+        <div class="cta">
+            <a href="mailto:manuelmelendeznegron@gmail.com" class="btn primary">Contactar</a>
+            <a href="assets/MMN-LM-CV-26.pdf" download class="btn secondary">Descargar CV</a>
+            <a href="https://www.linkedin.com/in/many5694" target="_blank" class="btn secondary">LinkedIn</a>
+        </div>
+    </div>
 </header>
 
-<main>
-    <section id="hero">
-        <h1>Manuel Melendez</h1>
-        <p>Senior Quality Assurance & Software Test Engineer</p>
-    </section>
+<section id="experiencia" class="container">
+    <h2>Experiencia Profesional</h2>
 
-    <section id="experiencia" aria-labelledby="exp-title">
-        <h2 id="exp-title">Experiencia Profesional</h2>
-        <!-- Tu contenido aquí -->
-    </section>
-</main>
+    <div class="card">
+        <h3>Software Tester Engineer</h3>
+        <p class="company">Lockheed Martin | 2025 - Presente</p>
+        <ul>
+            <li>Optimización de scripts automáticos en <strong>Tricentis Tosca</strong> para entornos 3DX.</li>
+            <li>Ejecución de Regression Testing para asegurar la estabilidad del ciclo de vida del producto.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>IT Quality Control Analyst Sr</h3>
+        <p class="company">Carelon Global Solutions | 2023 - 2025</p>
+        <ul>
+            <li>Liderazgo en pruebas de documentación técnica y detección de errores críticos en software.</li>
+            <li>Desarrollo de planes de prueba integrales para múltiples aplicaciones.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Quality Assurance Tester</h3>
+        <p class="company">INVID | 2021 - 2023</p>
+        <ul>
+            <li>Automatización con <strong>Selenium</strong> y <strong>Cypress</strong> integrada en pipelines de CI/CD (Jenkins).</li>
+            <li>Liderazgo de equipos de QA, aumentando la cobertura de pruebas en un 30%.</li>
+        </ul>
+    </div>
+
+    <div class="card navy">
+        <div class="badge">Security Clearance Experience</div>
+        <h3>Integrated Combat Systems Engineer</h3>
+        <p class="company">Department of the Navy | Dahlgren, VA | 2018 - 2021</p>
+        <ul>
+            <li>Pruebas y evaluación del sistema de combate AEGIS, específicamente radares SPY-1 y SPY-6.</li>
+            <li>Análisis de datos para el rendimiento táctico e integridad de sistemas de combate.</li>
+            <li>Coordinación técnica para el manejo seguro de datos bajo protocolos de seguridad nacional.</li>
+        </ul>
+        <p class="achievement"><strong>Logro clave:</strong> Recibí el <em>Courage Award</em> por profesionalismo en eventos de prueba críticos y mejoré la precisión de validación de datos en un 30%.</p>
+    </div>
+
+</section>
+
+<section id="skills" class="bg-alt">
+    <div class="container">
+        <h2>Habilidades Técnicas</h2>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <h4>Automation & Testing</h4>
+                <p>Tricentis Tosca, Selenium, Cypress, JMeter, Regression Testing</p>
+            </div>
+            <div class="skill-category">
+                <h4>Desarrollo & Herramientas</h4>
+                <p>Python, Java, SQL, Git, Jenkins, Azure DevOps, Jira</p>
+            </div>
+            <div class="skill-category">
+                <h4>Sistemas</h4>
+                <p>MacOS, Linux, iOS, Android, Windows OS</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="certificaciones" class="container">
+    <h2>Educación y Certificaciones</h2>
+    <div class="edu-grid">
+        <div class="edu-item">
+            <strong>Bachillerato en Ciencias de Cómputos</strong>
+            <p>Universidad de Puerto Rico, Mayagüez (UPRM)</p>
+        </div>
+        <div class="edu-item">
+            <strong>Certified Tester Foundation Level</strong>
+            <p>AT*SQA Registry | Noviembre 2022</p>
+            <a href="https://atsqa.org/certified-testers/profile/f4b6cc778222404d8a76e37af1b4adeb" target="_blank" class="verify-link">Ver Credencial →</a>
+        </div>
+        <div class="edu-item">
+            <strong>Optimizing Test Automation (AS2)</strong>
+            <p>Tricentis Academy | Octubre 2025</p>
+            <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/186e7834-ea2d-4cf8-ba55-8039986ea306/shared?lang=en&t=1778238503079" target="_blank" class="verify-link">Ver Credencial →</a>
+        </div>
+        <div class="edu-item">
+            <strong>Junior Cybersecurity Analyst</strong>
+            <p>Cisco Networking Academy | Agosto 2023</p>
+            <a href="https://www.credly.com/badges/5804361c-add5-4434-b329-b43e780c5f37/public_url" target="_blank" class="verify-link">Ver Credencial →</a>
+        </div>
+        <div class="edu-item">
+            <strong>Web Accessibility (W3Cx)</strong>
+            <p>W3Cx/edX | Agosto 2023</p>
+            <a href="https://courses.edx.org/certificates/ba9a8e359c264364a7b7706513d120de" target="_blank" class="verify-link">Ver Credencial →</a>
+        </div>
+    </div>
+</section>
+
+<section id="contacto" class="container">
+    <h2>Contacto</h2>
+    <p>¿Interesado en colaborar o conocer más sobre mis procesos de QA Automation?</p>
+    <div class="contact-links">
+        [span_0](start_span)<a href="mailto:manuelmelendeznegron@gmail.com" class="btn primary">Email</a>[span_0](end_span)
+        [span_1](start_span)<a href="https://www.linkedin.com/in/many5694" target="_blank" class="btn secondary">LinkedIn</a>[span_1](end_span)
+    </div>
+</section>
+
 
 <footer>
-    <p>&copy; 2026 Many5694. Todos los derechos reservados.</p>
+    <p>&copy; 2026 Manuel Meléndez-Negrón. Diseñado con precisión técnica.</p>
 </footer>
 
 </body>
