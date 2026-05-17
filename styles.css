@@ -244,3 +244,15 @@ nav.scrolled {
     display: inline-block;
     padding: 12px 24px;
 }
+
+.lang-switch {
+    border: 1px solid var(--accent);
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+.lang-switch:hover {
+    background-color: var(--accent); /* Cambia al color de acento que ya tienes */
+    color: #0f172a !important;       /* Hardcodear el color oscuro de fondo */
+}
