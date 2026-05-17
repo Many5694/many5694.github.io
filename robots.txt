@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Ruta de tu sitemap
-Sitemap: https://many5694.github.io/sitemap.xml
+Sitemap: https://many5694.com/sitemap.xml
